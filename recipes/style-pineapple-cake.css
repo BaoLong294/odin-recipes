@@ -19,3 +19,13 @@ body {
   width: 450px;
   height: auto;
 }
+
+.title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+  width: 450px;
+}
