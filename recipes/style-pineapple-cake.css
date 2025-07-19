@@ -29,3 +29,15 @@ body {
   font-size: 17px;
   width: 450px;
 }
+
+.content.ingredients img,
+.content.ingredients ul {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.content.ingredients img {
+  height: 200px;
+  width: auto;
+  margin-right: -5px;
+}
