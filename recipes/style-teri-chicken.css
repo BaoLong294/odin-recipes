@@ -33,6 +33,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   font-size: 17px;
   width: 450px;
+  text-align: justify;
 }
 
 .content.ingredients img,
